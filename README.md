@@ -27,7 +27,7 @@ The following languages / technologies were used to build this project.
 
 - Homepage
 
-* ![Alt text](./public/screenshots/SS1.png)
+* ![Alt text](./public/screenshots/img/SS1.png)
 
 ## Live Site
 
